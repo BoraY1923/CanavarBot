@@ -57,6 +57,15 @@ npm i @discordjs/builders@0.15.0
  yt-search@2.10.3
  ytdl-core@4.11.0
  
+ --------------------
+ 
+ Create a bot folder, open the folder in cmd type "npm init --y" to install the nodejs stuff. You need node.js btw. okay. Create a folder called commands and put the stuff to commands folder (except bot.js). And dont forget to put your bot token 
+ 
+then download the npm files via terminal.
+
+I also recommend you to use pm2 for auto-restarts and better control of your bot "npm install pm2 -g" for more details check pm2 website
+ 
+ ---------------------
  this is my first time making a bot, dont expect anything professional. I mean it works.
  
  It contains really basic commands, feel free to take it.
